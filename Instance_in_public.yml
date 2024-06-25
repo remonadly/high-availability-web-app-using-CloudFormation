@@ -1,3 +1,4 @@
+# this for testing a User Data Script on a Server in a Public subnet
 Resources:
 
   VPC: 
