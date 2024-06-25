@@ -1,0 +1,10 @@
+- The provided file named "Instance_in_public.yml" , it was for testing the User Data Script on a Server in a Public subnet.
+
+- The LoadBalancer URL address > http://serve-WebAp-D2FUVY83AOPC-1722934509.us-east-1.elb.amazonaws.com
+
+- A Link for the Diagarm on lucidchart >
+
+ https://lucid.app/lucidchart/67da645e-66d0-4dfa-937c-eef3a72a4d52/edit?invitationId=inv_0ea76ec5-752d-4860-9506-6d6b5d06f151&page=0_0# 
+
+- I managed to solve some issues by referring to some GitHub repos, like the issue of how to install the awscli on the newly created instances as it was not included in the AMI image i guess, and took a while to figure it out. in addition to network.yml and server.yml provided through the lessons.
+
